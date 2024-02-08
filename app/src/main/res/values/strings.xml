@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RecyclerView1</string>
+
+    <string-array name="amino_acid_list">
+        <item>Alanio</item>
+        <item>Colombo</item>
+        <item>Kandy</item>
+        <item>Jaffna</item>
+        <item>Galle</item>
+        <item>Matara</item>
+        <item>Hambantota</item>
+        <item>Kaduwela</item>
+        <item>Kotte</item>
+        <item>Nuwara</item>
+    </string-array>
+
+    <string-array name="amino_tree_list">
+        <item>Alan</item>
+        <item>Col</item>
+        <item>Kan</item>
+        <item>Jaf</item>
+        <item>Gal</item>
+        <item>Mat</item>
+        <item>Ham</item>
+        <item>Kad</item>
+        <item>Kot</item>
+        <item>Nuw</item>
+    </string-array>
+
+    <string-array name="amino_one_list">
+        <item>A</item>
+        <item>C</item>
+        <item>K</item>
+        <item>J</item>
+        <item>G</item>
+        <item>M</item>
+        <item>H</item>
+        <item>K</item>
+        <item>K</item>
+        <item>N</item>
+    </string-array>
+</resources>
